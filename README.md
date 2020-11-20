@@ -1,4 +1,4 @@
-AWS Terraform practice
+# AWS Terraform practice
 
 Set AWS Access Keys to run terraform with:
 ```
